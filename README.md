@@ -88,17 +88,9 @@ Actualmente en formación, desarrollando conocimientos y competencias en:
 
 <div align="center">
 
-<a href="https://github.com/wljuancho">
+<img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=wljuancho&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wljuancho&layout=compact&hide_border=true&langs_count=6&theme=transparent" />
-
-</a>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wljuancho&theme=transparent&hide_border=true" />
+<img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
 
 </div>
 
@@ -108,7 +100,7 @@ Actualmente en formación, desarrollando conocimientos y competencias en:
 
 <div align="center">
 
-[![Juan Ángel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wljuancho\&theme=github-compact\&hide_border=true)](https://github.com/wljuancho)
+<img src="./profile/activity.svg" alt="Contribution Activity">
 
 </div>
 
