@@ -5,9 +5,14 @@
 ### Software Developer | ADSO
 
 Estudiante de Tecnología en Análisis y Desarrollo de Software en el SENA, interesado en el desarrollo de aplicaciones y soluciones digitales.
+<a href="https://github.com/wljuancho" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-wljuancho-181717?style=flat-square&logo=github" alt="GitHub">
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-wljuancho-181717?style=flat-square\&logo=github)](https://github.com/wljuancho)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Ángel%20Quintero-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/juan-angel-quintero-roldan-4b507a411/)
+<a href="https://www.linkedin.com/in/juan-angel-quintero-roldan-4b507a411/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Juan%20%C3%81ngel%20Quintero-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
+
 
 </div>
 
