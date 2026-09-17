@@ -27,7 +27,7 @@ Actualmente estoy buscando una **oportunidad de patrocinio empresarial** que me 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,ts,expo,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,ts,nodejs,react,git,github,vscode" />
 
 </div>
 
@@ -50,7 +50,7 @@ Aplicación enfocada en aprendizaje y apoyo educativo.
 
 Aplicación enfocada en fitness y seguimiento de actividades.
 
-**Stack:** `TypeScript` · `Expo` · `node` · `movil`
+**Stack:** `TypeScript` · `Expo` · `node` · `react native`
 
 [![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/wljuancho/Anjuroela-fit)
 [![Demo](https://img.shields.io/badge/Demo-4285F4?style=flat-square\&logo=googlechrome\&logoColor=white)](no)
