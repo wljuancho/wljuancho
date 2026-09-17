@@ -4,7 +4,8 @@
 
 ### Software Developer | ADSO
 
-Estudiante de Tecnología en Análisis y Desarrollo de Software en el SENA, interesado en el desarrollo de aplicaciones y soluciones digitales.
+Estudiante de Tecnología en Análisis y Desarrollo de Software en el SENA, interesado en el desarrollo de aplicaciones y soluciones digitales.</br>
+
 <a href="https://github.com/wljuancho" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-wljuancho-181717?style=flat-square&logo=github" alt="GitHub">
 </a>
