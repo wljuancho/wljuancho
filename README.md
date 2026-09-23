@@ -53,7 +53,7 @@ Aplicación enfocada en fitness y seguimiento de actividades.
 **Stack:** `TypeScript` · `Expo` · `node` · `react native`
 
 [![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/wljuancho/Anjuroela-fit)
-[![Demo](https://img.shields.io/badge/Demo-4285F4?style=flat-square\&logo=googlechrome\&logoColor=white)](no)
+[![Demo](https://img.shields.io/badge/Demo-4285F4?style=flat-square\&logo=googlechrome\&logoColor=white)](https://www.mediafire.com/file/j5xfqanrfuj9spv/anjuroela+13.apk/file)
 
 ---
 
